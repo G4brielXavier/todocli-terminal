@@ -1,4 +1,4 @@
-<h1>TodoCli 0.2.2</h1>
+<h1>TodoCli 0.2.3</h1>
 <p>A Simple TodoApp in form of terminal</p>
 
 <h3>All Commands of TodoCli</h3>
